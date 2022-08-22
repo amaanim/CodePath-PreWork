@@ -8,7 +8,7 @@
 ![](https://i.imgur.com/rMSakZq.gif)
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://i.imgur.com/rMSakZq.gif" width=200><br>
 
 
 ### Required User Stories
