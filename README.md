@@ -5,7 +5,7 @@
 
 ### App Walk-though
 `
-![](https://i.imgur.com/rMSakZq.gif)
+
 
 
 <img src="https://i.imgur.com/rMSakZq.gif" width=200><br>
